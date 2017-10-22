@@ -732,4 +732,4 @@ a, a:visited, a:link {
   }
 }
 /*dodane A*/
-#chartContainer .chart-context {display:none;}
+#chartContainer svg .chart-context {display:none!important;}
