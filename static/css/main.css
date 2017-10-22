@@ -731,3 +731,5 @@ a, a:visited, a:link {
     line-height: 13px;
   }
 }
+/*dodane A*/
+#chartContainer .chart-context {display:none;}
